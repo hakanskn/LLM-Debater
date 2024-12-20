@@ -33,7 +33,7 @@ Bu depo, iki yapay zeka ajanın belirli konular üzerinde tartışmasını sağl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-debate-simulator.git
+   git clone [https://github.com/hakanskn/LLM-Debater.git](https://github.com/hakanskn/LLM-Debater.git)
    cd ai-debate-simulator
    ```
 
@@ -52,7 +52,7 @@ Bu depo, iki yapay zeka ajanın belirli konular üzerinde tartışmasını sağl
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/yourusername/ai-debate-simulator.git
+   git clone [https://github.com/hakanskn/LLM-Debater.git](https://github.com/hakanskn/LLM-Debater.git)
    cd ai-debate-simulator
    ```
 
